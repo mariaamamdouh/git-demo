@@ -6,4 +6,8 @@ public:
     void printHelloITI() {
         cout << "Hello ITI" << endl;
     }
+
+    void printHelloGit() {
+        cout << "Hello Git" << endl;
+    }
 };
