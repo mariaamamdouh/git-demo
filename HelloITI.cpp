@@ -2,4 +2,8 @@
 using namespace std;
 
 class HelloITI {
+public:
+    void printHelloITI() {
+        cout << "Hello ITI" << endl;
+    }
 };
