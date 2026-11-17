@@ -9,6 +9,7 @@ public:
 
     void printHelloGit() {
         cout << "Hello Git" << endl;
+        cout << "source tree" << endl;
 
         // Working on hello-iti branch
     }
