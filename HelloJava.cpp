@@ -8,5 +8,6 @@ public:
     }
     void Git() {
         cout << "hello lab two" << endl; // edit by mariammm
+        cout<< "heloooooooooooo"
     }
 };
