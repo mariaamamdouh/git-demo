@@ -6,4 +6,9 @@ public:
     void printHelloWorld() {
         cout << "Hello World" << endl;
     }
+    
+    void printHelloEditHelloJavaBranch() {
+        cout << "HelloEditHelloJavaBranch" << endl;
+    }
+
 };
