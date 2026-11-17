@@ -6,4 +6,7 @@ public:
     void printHelloWorld() {
         cout << "Hello World" << endl;
     }
+    void Git() {
+        cout << "hello lab two" << endl;
+    }
 };
