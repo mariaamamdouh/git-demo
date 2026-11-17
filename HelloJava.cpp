@@ -7,6 +7,6 @@ public:
         cout << "Hello World" << endl;
     }
     void Git() {
-        cout << "hello lab two" << endl;
+        cout << "hello lab two" << endl; // edit by mariammm
     }
 };
